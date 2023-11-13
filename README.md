@@ -1,1 +1,3 @@
 # botDiscordnews
+
+Discord bot. 
